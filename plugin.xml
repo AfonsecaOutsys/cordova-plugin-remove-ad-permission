@@ -21,10 +21,7 @@
   
     <platform name="android">
 
-        <config-file target="AndroidManifest.xml" parent="/manifest">
-                <uses-permission android:name="com.google.android.gms.permission.AD_ID" tools:node="remove"/>
-        </config-file>
-        <hook type="after_prepare" src="remove_permissions.js"/> 
+       <hook type="after_prepare" src="remove_permissions.js"/> 
     </platform>
 
 </plugin>
