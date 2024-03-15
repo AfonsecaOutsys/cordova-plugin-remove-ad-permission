@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bphreaker/cordova-plugin-remove-ad-permission.git"
+    "url": "git+"https://github.com/AfonsecaOutsys/cordova-plugin-remove-ad-permission#TestRelease"
   },
   "keywords": [
     "construct-master-collection",
